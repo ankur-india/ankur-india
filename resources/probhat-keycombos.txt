@@ -1,0 +1,135 @@
+VOWELS:
+
+A     v     I      E    U    W   V    y     Y    o     O
+অ     আ     ই     ঈ     উ     ঊ    ঋ     এ     ঐ     ও     ঔ
+
+matras
+a      i       e      u     w     <      [       {        ]        }
+া     ি     ী     ু     ূ     ৃ     ে     ৈ     ো     ৌ
+
+
+SPECIAL CHARACTERS:
+
+L    H     >     /     f/
+ ং   ঃ   ঁ    ্     ত্
+
+[applied as below]
+ কং     কঃ     কঁ   ক্    কত্
+
+CONSONANTS:                        
+k    K     g    G    M   	   
+ক     খ     গ     ঘ     ঙ	  
+c    C     j     J    &
+চ     ছ     জ     ঝ    ঞ	   
+t     T    d    R   D   X  N
+ট     ঠ     ড    ড়    ঢ    ঢ়   ণ	  
+f     F     d    D    n
+ত     থ     দ     ধ     ন
+p     P    b    B    m
+প     ফ     ব     ভ     ম
+Z    r     l      z 
+য     র     ল     য়
+x    S     s    h       
+শ     ষ     স     হ
+
+			
+
+VOWEL CONJUNCTS:
+			া ি ী ু ূৃ ে ৈ ো ৌ [applied as below]
+
+			কা কি কী কু কূ কৃ কে কৈ কো কৌ 
+			খা খি খী খু খূ খৃ খে খৈ খো খৌ 
+			গা গি গী গু গূ গৃ গে গৈ গো গৌ 
+			ঘা ঘি ঘী ঘু ঘূ ঘৃ ঘে ঘৈ ঘো ঘৌ 
+		
+			চা চি চী চু চূ চে চৈ চো চৌ
+			ছা ছি ছী ছু ছূ ছে ছৈ ছো ছৌ
+			জা জি জী জু জূ জে জৈ জো জৌ
+			ঝা ঝি ঝী ঝু ঝূ ঝে ঝৈ ঝো ঝৌ
+
+			টা টি টী টু টূ টে টৈ টো টৌ
+			ঠা ঠি ঠী ঠু ঠূ ঠে ঠৈ ঠো ঠৌ
+			ডা ডি ডী ডু ডূ ডে ডৈ ডো ডৌ
+			ঢা ঢি ঢী ঢু ঢূ ঢে ঢৈ ঢো ঢৌ
+			ণা ণি ণী ণু ণূ ণে ণৈ ণো ণৌ
+
+			তা তি তী তু তূ তৃ তে তৈ তো তৌ
+			থা থি থী থু থূ থে থৈ থো থৌ
+			দা দি দী দু দূ দৃ দে দৈ দো দৌ
+			ধা ধি ধী ধু ধূ ধে ধৈ ধো ধৌ
+			না নি নী নু নূ নে নৈ নো নৌ
+
+			পা পি পী পু পূ পৃ পে পৈ পো পৌ
+			ফা ফি ফী ফু ফূ ফৃ ফে ফৈ ফো ফৌ
+			বা বি বী বু বূ বৃ বে বৈ বো বৌ
+			ভা ভি ভী ভু ভূ ভৃ ভে ভৈ ভো ভৌ
+			মা মি মী মু মূ মৃ মে মৈ মো মৌ
+
+			যা যি যী যু যূ যে যো
+			রা রি রী রু রূ রে রৈ রো রৌ
+			লা লি লী লু লূ লে লৈ লো লৌ
+			য়া য়ি য়ী য়ু য়ূ য়ে য়ো
+
+			শা শি শী শু শূ শৃ শে শৈ শো শৌ
+			ষা ষে ষী ষু ষূ ষে ষৈ ষো ষৌ
+			সা সি সী সু সূ সৃ সে সৈ সো সৌ
+			হা হি হী হু হূ হৃ হে হৈ হো হৌ
+
+
+CONSONANT CONJUNCTS (part1):
+k/Z     K/Z     g/Z     G/Z      c/Z     j/Z     t/Z     T/Z     d/Z     D/Z   N/Z
+ক্য       খ্য         গ্য         ঘ্য          চ্য	      জ্য      ট্য       ঠ্য         ড্য       ঢ্য       ণ্য
+f/Z      F/Z     q/Z     Q/Z      n/Z    p/Z    P/Z     b/Z    B/Z     m/Z   Z/Z
+ ত্য       থ্য         দ্য        ধ্য          ন্য       প্য       ফ্য        ব্য        ভ্য        ম্য       য্য
+l/Z      x/Z      S/Z     s/Z       h/Z    R/Z    X/Z    k/r     g/r      G/r     j/r
+ল্য        শ্য         ষ্য        স্য          হ্য        ড়্য       ঢ়্য       ক্র       গ্র         ঘ্র       জ্র 
+f/r       d/r      D/r      b/r        B/r     p/r     m/r     x/r     s/r      h/r     k/l
+ত্র        দ্র          ধ্র        ব্র           ভ্র        প্র        ম্র       শ্র        স্র        হ্র       ক্ল
+g/l      p/l       m/l     l/l          x/l       h/l     k/b      j/b     t/b      f/b     q/b
+গ্ল         প্ল         ম্ল       ল্ল           শ্ল         হ্ল        ক্ব        জ্ব        ট্ব         ত্ব       দ্ব
+Q/b    n/b      l/b     x/b        s/b       h/b   N/N    S/N   h/N    g/n     G/n 
+ধ্ব        ন্ব          ল্ব        শ্ব            স্ব          হ্ব       ণ্ণ        ষ্ণ       হ্ন         গ্ন       ঘ্ন
+
+
+CONSONANT CONJUNCTS (contd):
+f/n     n/n       m/n       s/n     h/n     k/m   g/m    M/m  t/m    N/m    f/m
+ত্ন        ন্ন            ম্ন          স্ন        হ্ন        ক্ম       গ্ম        ঙ্ম        ট্ম       ণ্ম        ত্ম
+q/m   Q/m     n/m      m/m    l/m     x/m   S/m    h/m    k/k     k/f     k/S
+দ্ম        ধ্ম            ন্ম         ম্ম        ল্ম         শ্ম       ষ্ম        হ্ম         ক্ক       ক্ত      ক্ষ
+g/Q   L/k       L/K       L/g     L/G      c/c    c/C    c/&       j/j     j/J     j/&
+গ্ধ        ঙ্ক           ঙ্খ          ঙ্গ       ঙ্ঘ          চ্চ      চ্ছ        চ্ঞ        জ্জ      জ্ঝ       জ্ঞ
+&/c   &/C       &/j        t/t      R/g       N/t    n/T    N/d      f/f    f/F     q/g
+ঞ্চ        ঞ্ছ           ঞ্জ          ট্ট       ড়্গ          ণ্ট      ণ্ঠ         ণ্ড        ত্ত       ত্থ       দ্গ
+q/G   q/q       q/Q      q/B     n/f        n/F    n/q   n/Q      p/f    b/j     b/q
+দ্ঘ       দ্দ           দ্ধ          দ্ভ       ন্ত           ন্থ        ন্দ       ন্ধ        প্ত       ব্জ      ব্দ
+m/p   m/P     m/b     m/B     l/k         l/g      l/p    x/c      x/C    S/k    S/t
+ম্প       ম্ফ          ম্ব          ম্ভ        ল্ক          ল্গ         ল্প       শ্চ        শ্ছ       ষ্ক      ষ্ট
+S/T   S/p      S/P      s/k      s/K        s/f      s/F    s/p     s/P
+ষ্ঠ         ষ্প         ষ্ফ         স্ক        স্খ          স্ত         স্থ       স্প       স্ফ	
+
+
+
+
+
+
+Three consonant conjuncts
+
+k/S/N       k/S/m       M/k/S       j/j/b        f/f/b       t/m/Z
+ক্ষ্ণ                ক্ষ্ম              ঙ্ক্ষ            জ্জ্ব           ত্ত্ব             ত্ম্য
+n/f/r         n/f/b         n/q/r         n/Q/Z     n/n/Z     m/p/r
+ন্ত্র                 ন্ত্ব               ন্দ্র             ন্ধ্য            ন্ন্য           ম্প্র
+m/B/r       r/Q/b        r/x/b         S/t/r       S/p/r       s/f/r
+ম্ভ্র                 র্ধ্ব             র্শ্ব                ষ্ট্র            ষ্প্র           স্ত্র
+
+র + / + consonant (reph)
+র্ক র্খ র্গ র্ঘ র্চ র্ছ র্জ র্ঝ র্ণ র্ত র্থ র্দ র্ধ র্ন র্প র্ব র্ভ র্ম র্য র্ল র্শ র্ষ র্হ
+
+
+Paragraph:
+
+১৯৭৯-৮০ থেকে বাংলা বানান সম্বন্ধে আবার ভাবনাচিন্তার মধ্যে খানিকটা প্রাবল্য ও উত্তেজনা আসে. প্রয়াত জগন্নাথ চক্রবর্তী অধ্যাপক অসিতকুমার বন্দ্যোপাধ্যায়ের সহযোগে উচ্চারণ-অনুগ তৈরি করেন. তা তীব্র বিতর্ক সৃষ্টি করেছিল এবং ঐতিহ্যের সঙ্গে অতটা বিচ্ছেদ ভাষাভাবুকরা মেনে নিতে সম্মত হননি. বস্তুত উচ্চারণ-অনুগ বাংলা বানান সম্বন্ধে স্পষ্ট ধারণা ওই প্রস্তাবে যেমন ছিল না, তেমনই অন্যদের এ জাতীয় নানা প্রস্তাবে তা প্রতিভাত হয়নি. আর এসব প্রস্তাব খুব নতুন বা অভিনবও নয়. এই শতাব্দীর গোড়ায় যোগেশচন্দ্র রায় বিদ্যানিধি এরকম একটি প্রস্তাব করেছিলেন, পরে বাংলাদেশ (তখনকার পূর্ব পাকিস্তান) মুহম্মদ শহীদুল্লাহ-র শোজা বাঙ্লা-ও প্রায় একই প্রস্তাব. এই সব উত্ কেন্দ্রিক সুপারিশ ও বাদ-প্রতিবাদের মধ্যে কলকাতা-বিশ্বভারতীর বানানরীতিই মূল ধারাবাহিকতা সৃষ্টি ও রক্ষা করে এসেছে.
+
+1979-80 F[k[ baLla banan sm/bn/Q[ vbar Babnacin/far mQ/Z[ Kanikta p/rabl/Z o Uf/f[jna vs[. p/rzaf jgn/nF ck/rbr/fe AF/Zapk Asifkumar bn/q/Z]paF/Zaz[r shZ]g[ Uc/carN-Anug f{ri kr[n. fa feb/r bifr/k s<S/ti kr[Cil EbL Yfih/Z[r sM/g[ Afta bic/C[q BaxaBabukra mm[n[ nif[ sm/mf hnni. bs/f/uf Uc/carN-Anug baLla banan sm/bn/Q[ s/pS/t QarNa oI p/rs/fab[ Z[mn C[lna, f[mnI An/Zq[r y jafez nana p/rs/fab fa p/rfiBaf hz ni. vr ysb p/rs/fab Kub nfun ba ABinbo nz. yI xfab/qir g]Raz Z]g[xcn/q/r raz biq/ZaniQi yrkm ykti p/rs/fab kr[Cilen, pr[ baLlaq[x (fKnkar pwr/b pakis/fan) muhm/mq xhedul/lah-r x]ja baM/la-O p/raz ykI p/rs/fab. yI sb Uf/k[n/q/rik suparix O baq-p/rfibaq[r mQ/Z[ klkafa-bix/bBarfer banabrefiI mwl Qarabahikfa s<Sti o rk/Sa kr[ ys[C[.
+
+
+
